@@ -1,0 +1,3 @@
+- ref
+  - https://www.devglan.com/spring-boot/spring-boot-redis-cache
+  - https://stackabuse.com/spring-boot-with-redis-hashoperations-crud-functionality/
